@@ -18,7 +18,7 @@ BSc in Computer Science (Machine Learning), University of Tokyo.
 
 - Programming e-learning platform [Algo Method](https://algo-method.com), used by 30,000+ users
 - Leading a team of 5-10 engineers for web product development and client projects
-- Organizing [TUNA Camp 2026](https://algo-method.com) — competitive programming camp for 100-150 top students in Japan
+- Organizing [TUNA Camp 2026](https://tuna.camp) — competitive programming camp for 100-150 top students in Japan
 
 ### GA technologies Inc. — PM + AI Researcher (2020 - 2022)
 
