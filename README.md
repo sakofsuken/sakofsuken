@@ -23,4 +23,9 @@ Software Engineer / Competitive Programmer
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#3471](https://github.com/DOMjudge/domjudge/issues/3471) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+2. 🗣 Commented on [#3471](https://github.com/DOMjudge/domjudge/issues/3471#issuecomment-3940892770) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+3. 🔒 Closed issue [#3470](https://github.com/DOMjudge/domjudge/issues/3470) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+4. 🗣 Commented on [#3470](https://github.com/DOMjudge/domjudge/issues/3470#issuecomment-3940305375) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+5. 🗣 Commented on [#3467](https://github.com/DOMjudge/domjudge/issues/3467#issuecomment-3935519599) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
 <!--END_SECTION:activity-->
