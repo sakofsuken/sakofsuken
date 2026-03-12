@@ -7,7 +7,7 @@ Software Engineer & Entrepreneur — Building AI-assisted web products end-to-en
 
 BSc in Computer Science (Machine Learning), University of Tokyo.
 
-[![AtCoder](https://img.shields.io/badge/AtCoder_2500+-blue?style=flat)](https://atcoder.jp/users/sak)
+[![AtCoder](https://img.shields.io/badge/AtCoder_2500+-orange?style=flat)](https://atcoder.jp/users/sak)
 [![X](https://img.shields.io/badge/@sak__algo-000000?style=flat&logo=x)](https://x.com/sak_algo)
 
 ---
@@ -29,15 +29,23 @@ BSc in Computer Science (Machine Learning), University of Tokyo.
 
 ## Tech Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript, Ruby, Python, Go |
-| **Frontend** | React, Next.js |
-| **Backend** | Ruby on Rails, Hono |
-| **Infra** | AWS, Vercel, Docker, Terraform |
-| **DB** | PostgreSQL, MySQL, Redis |
-| **CI/CD** | GitHub Actions, CircleCI |
-| **AI Tools** | Claude, Cursor, Greptile |
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,ruby,py,go&theme=light)](https://skillicons.dev)
+
+**Frontend / Backend**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,rails,hono&theme=light)](https://skillicons.dev)
+
+**Infrastructure / Database**
+
+[![Infra](https://skillicons.dev/icons?i=aws,vercel,docker,terraform,postgres,mysql,redis&theme=light)](https://skillicons.dev)
+
+**CI/CD & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=githubactions,git,linux&theme=light)](https://skillicons.dev)
+![Claude](https://img.shields.io/badge/Claude-d4a27f?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
