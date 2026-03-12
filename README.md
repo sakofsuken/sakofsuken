@@ -52,10 +52,5 @@ BSc in Computer Science (Machine Learning), University of Tokyo.
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakofsuken&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakofsuken&layout=compact&hide_border=true&count_private=true" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakofsuken&hide_border=true" />
 </p>
